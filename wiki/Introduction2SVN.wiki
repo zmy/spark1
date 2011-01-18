@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
 #labels Featured,Phase-Implementation
-
 = Introduction =
 
 SVN使用简介，版本控制入门
