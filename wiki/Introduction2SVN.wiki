@@ -10,7 +10,7 @@ SVN使用简介，版本控制入门
 
 这里大致介绍最简单的入门流程:
 
-#下载一个SVN客户端在本机安装，推荐使用[http://tortoisesvn.net/downloads Tortoise SVN]。
-#建立本地代码库，按照[http://code.google.com/p/spark1/source/checkout Source]中提供的用户名密码下载代码（到本地一个新建目录下）。
-#修改本地代码，在需要提交代码时，首先在本地通过客户端update/更新一下代码，并解决可能的冲突问题（较少发生），然后通过客户端commit/提交你的新代码，Google代码库中的代码就会更新了。
-#注意Google Code是开源的，虽说选了个限制多点的Licence，不过不该上传的东西就不要上传了。有2G免费空间和2G免费流量（好象是每天），主要存放代码，文档、运行库、软件工具神马的就不要放这里了~
+ #下载一个SVN客户端在本机安装，推荐使用[http://tortoisesvn.net/downloads Tortoise SVN]。
+ #建立本地代码库，按照[http://code.google.com/p/spark1/source/checkout Source]中提供的用户名密码下载代码（到本地一个新建目录下）。
+ #修改本地代码，在需要提交代码时，首先在本地通过客户端update/更新一下代码，并解决可能的冲突问题（较少发生），然后通过客户端commit/提交你的新代码，Google代码库中的代码就会更新了。
+ #注意Google Code是开源的，虽说选了个限制多点的Licence，不过不该上传的东西就不要上传了。有2G免费空间和2G免费流量（好象是每天），主要存放代码，文档、运行库、软件工具神马的就不要放这里了~
